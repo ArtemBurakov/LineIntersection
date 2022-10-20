@@ -1,0 +1,12 @@
+canvas {
+  display: block;
+  border: 1px solid red;
+}
+
+button {
+  margin-top: 15px;
+  padding: 5px;
+  color: red;
+  background: none;
+  border: 1px solid red;
+}
